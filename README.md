@@ -4,3 +4,6 @@ I work as a frontend developer having comprehensive knowledge on Javascript. Iâ€
 
 - Poke me about **JavaScript**, **React.Js**, **Vue.js**
 - Reach me: [twitter.com/yulafezmem](https://twitter.com/yulafezmem)
+
+![Alt text](https://www.codewars.com/users/yulafezmesi/badges/large)
+
